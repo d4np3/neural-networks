@@ -17,7 +17,7 @@ Additional files include the source data and output h5 files.
   * Hidden Layer 2  : 5 <br />
   * Output Layer    : 1 <br />
 <p>
-<img src="model1.png" width=75% height=75%> <br />
+<img src="img/model1.png" width=75% height=75%> <br />
 </p>
 
 <br />
@@ -30,7 +30,7 @@ Additional files include the source data and output h5 files.
   * Hidden Layer 3  : 5<br />
   * Output Layer    : 1 <br />
 <p>
-<img src="model2.png" width=75% height=75%> <br />
+<img src="img/model2.png" width=75% height=75%> <br />
 </p>
  
 <br />
@@ -44,7 +44,7 @@ Additional files include the source data and output h5 files.
   * Hidden Layer 4  : 2<br />
   * Output Layer    : 1 <br />
 <p>
-<img src="model3.png" width=75% height=75%> <br />
+<img src="img/model3.png" width=75% height=75%> <br />
 </p>
 
 <br />
@@ -58,7 +58,7 @@ Additional files include the source data and output h5 files.
   * Hidden Layer 4  : 10<br />
   * Output Layer    : 1 <br />
 <p>
-<img src="model4.png" width=75% height=75%> <br />
+<img src="img/model4.png" width=75% height=75%> <br />
 </p>
 
 <br />
